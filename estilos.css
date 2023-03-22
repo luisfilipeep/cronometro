@@ -1,0 +1,21 @@
+body {
+background-image: url(https://gifs.eco.br/wp-content/uploads/2022/08/gifs-de-cronometro-7.gif);
+color: white;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+
+footer {
+    background-color: rgb(187, 39, 39);
+    height: 10%;
+    padding:
+    position:absolute;
+    buttom:0; 
+    margin-top:50%;
+         }
+        
+    p {
+        text-align: center;
+        font-size: 1.2em;
+        
+    }
